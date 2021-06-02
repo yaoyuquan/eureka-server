@@ -1,0 +1,5 @@
+server.port: 18001
+
+eureka.client:
+  registerWithEureka: false
+  fetchRegistry: false
